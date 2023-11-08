@@ -32,13 +32,12 @@ Topic: Microsoft wants to enter the movie business industry
   - Saw that the most profitable movies were released in May, June, July and November
 ## Conclusion
 - If Microsoft were to enter the movie industry we would give 3 recommendations:
-  1) Pursue 1 of the top 3 most profitable genres (Animation, Adventure and Sci-Fi)
-  2) For Adventure, Sci-Fi focus on run times between 135-150 minutes. For Animation focus on run times between 90-105 minutes
-  3) If you are going release a movie, do so in May, June, July or November
+   - Pursue 1 of the top 3 most profitable genres (Animation, Adventure and Sci-Fi)
+   - For Adventure, Sci-Fi focus on run times between 135-150 minutes. For Animation focus on run times between 90-105 minutes
+   - If you are going release a movie, do so in May, June, July or November
  ## Repository Information
  - This repository contains:
    - A gitignore file
-   - A presentation pdf
    - 2 preliminary Jupyter Notebooks
    - Final project Jupyter Notebook
    - A readme file
