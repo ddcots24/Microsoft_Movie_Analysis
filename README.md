@@ -19,22 +19,21 @@ Topic: Microsoft wants to enter the movie business industry
  -  We merged the two different data sets to conduct our analysis on movie profitability in our three areas of focus
 ## Data Analysis/Visualizations ([Tableau Viz's](https://public.tableau.com/views/MicrosoftMovieAnalysis/GenresandProfit?:language=en-US&:display_count=n&:origin=viz_share_link))
 ### Most Profitable Genres
- - Based on our data we found most profitable genres by median profit
- - From the top 10 genres with the highest profitability based on the median profit we decided to focus in on the top 4 genres
+ - Based on our data we found most profitable genres by average profit
+ - From the top 10 genres with the highest profitability based on the average profit I decided to focus in on the top 3 genres
 ### Top 3 Genre's Profitability based on Run Times 
-- For these Top 4 profiting genres, we analyzed each with respect to profit by run times
-- We found that for animation movies the most profitable run times are in the time range of 80-110 minutes
-- For the other three genres, the most profitable run times are in the interval of 140-155 minutes
-  - The 125-140 and 155-170 run times are quite profitable as well
+- For these Top 3 profiting genres, we analyzed each with respect to profit by run times
+- We found that for animation movies the most profitable run times are in the time range of 90-120 minutes
+- For the other two genres, the most profitable run times are in the interval of 120-155 minutes
 ### Most Profitable Months to Release the Movies for Top 3 Genres 
 - Profitability of top 3 Genres
   - Ran a Market trend Analysis
-  - Saw that the most profitable movies were released in May, June, July and November
+  - Saw that the most profitable movies were released in May, June, November and December
 ## Conclusion
 - If Microsoft were to enter the movie industry we would give 3 recommendations:
    - Pursue 1 of the top 3 most profitable genres (Animation, Adventure and Sci-Fi)
    - For Adventure, Sci-Fi focus on run times between 135-150 minutes. For Animation focus on run times between 90-105 minutes
-   - If you are going release a movie, do so in May, June, July or November
+   - If you are going release a movie, do so in May, June, November and December
  ## Repository Information
  - This repository contains:
    - A gitignore file
