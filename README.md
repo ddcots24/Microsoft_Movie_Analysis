@@ -17,7 +17,7 @@ Topic: Microsoft wants to enter the movie business industry
   -  [The Numbers](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/blob/main/zippedData/tn.movie_budgets.csv) [website](https://www.the-numbers.com/)
      -  A data set which contained numerical information on movie production budgets and gross earnings from which we were able to calculate the profit
  -  We merged the two different data sets to conduct our analysis on movie profitability in our three areas of focus
-## Data Analysis/Visualizations ([Tableau Viz's](https://public.tableau.com/views/MicrosoftMovieAnalysis/GenresandProfit?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Data Analysis/Visualizations ([Tableau Viz's](https://public.tableau.com/views/MicrosoftMovieAnalysis/GenresandProfit?:language=en-US&:display_count=n&:origin=viz_share_link))
 ### Most Profitable Genres
  - Based on our data we found most profitable genres by median profit
  - From the top 10 genres with the highest profitability based on the median profit we decided to focus in on the top 4 genres
