@@ -23,8 +23,8 @@ Topic: Microsoft wants to enter the movie business industry
  - From the top 10 genres with the highest profitability based on the average profit I decided to focus in on the top 3 genres
 ### Top 3 Genre's Profitability based on Run Times 
 - For these Top 3 profiting genres, I analyzed each with respect to profit by run times
-- I found that for animation movies the most profitable run times are in the time range of 90-120 minutes
-- For the other two genres, the most profitable run times are in the interval of 120-155 minutes
+- I found that for animation movies the most profitable run times are in the time range of 75-105 minutes
+- For the other two genres, the most profitable run times are in the interval of 120-150 minutes
 ### Most Profitable Months to Release the Movies for Top 3 Genres 
 - Profitability of top 3 Genres
   - Ran a Market trend Analysis
@@ -32,7 +32,7 @@ Topic: Microsoft wants to enter the movie business industry
 ## Conclusion
 - If Microsoft were to enter the movie industry we would give 3 recommendations:
    - Pursue 1 of the top 3 most profitable genres (Animation, Adventure and Sci-Fi)
-   - For Adventure, Sci-Fi focus on run times between 135-150 minutes. For Animation focus on run times between 90-105 minutes
+   - For Adventure, Sci-Fi focus on run times between 120-150 minutes. For Animation focus on run times between 75-105 minutes
    - If you are going release a movie, do so in May, June, November and December
  ## Repository Information
  - This repository contains:
